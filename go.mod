@@ -1,4 +1,4 @@
-module github.com/natebwangsut/lazy-go-ms
+module github.com/natebwangsut/lazy
 
 go 1.13
 
